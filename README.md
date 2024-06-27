@@ -27,8 +27,9 @@ Disadvantages:
 Scalability: Higher transaction fees and slower processing compared to Scroll.
 Privacy: Ethereum's transparency may pose privacy challenges for sensitive prescription data.
 Choice and Justification:
-For the Prescription Verification System dApp, I would choose Scroll Blockchain for several reasons:
 
+For the Prescription Verification System dApp, I would choose Scroll Blockchain for several reasons:
+Open-Source: As an open-source project, Scroll allows for transparency, flexibility, and community-driven improvements which are beneficial for long-term project sustainability.
 Privacy: Scroll's zero-knowledge proofs provide enhanced privacy for prescription data.
 Scalability: Scroll's architecture supports higher transaction throughput at lower costs.
 Focus: Since the dApp deals with sensitive health data, privacy and scalability are crucial factors that Scroll addresses effectively.
