@@ -1,3 +1,4 @@
+Rise In, Build on Scroll Bootcamp HW1
 Prescription Verification System
 Purpose: The dApp aims to create a secure and transparent platform for verifying prescriptions issued by doctors and filled by pharmacies. This helps prevent prescription fraud and ensures patients receive the correct medication.
 
